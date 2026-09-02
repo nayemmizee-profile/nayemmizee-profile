@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammad Nayem 👋
 
-### Learning full-stack web development ✍️ Columnist | 🌐 Tech Enthusiast | 🎓 Student at University of Chittagong
+### Learning Full-Stack Web Development ✍️ Columnist | 🌐 Tech Enthusiast | 🎓 Student at University of Chittagong
 
 I am passionate about exploring the intersection of technology, software development, and written expression. Beyond coding, I regularly write columns and articles analyzing internet trends, modern tech, and core computing concepts.
 
@@ -30,7 +30,13 @@ I am passionate about exploring the intersection of technology, software develop
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,git,github&perline=1" alt="Tech Stack Icons" />
+</p>
+
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.nayem.cumilla@gmail.com)
