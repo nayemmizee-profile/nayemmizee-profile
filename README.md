@@ -2,6 +2,15 @@
 # Hi there, I'm Mohammad Nayem 👋
 <img width="1376" height="768" alt="Git hub cover 01" src="https://github.com/user-attachments/assets/37e594af-bf17-4ccf-baeb-9742e2a29481" />
 
+<!-- NAME & DESIGNATION -->
+<h1 align="center">Hi 👋, I'm Mohammad Nayem</h1>
+<h3 align="center">A Passionate Full-Stack Developer </h3>
+
+<!-- LOCATION & EMAIL -->
+<p align="center">
+  📍 <b>Location:</b> Chattogram  &nbsp;|&nbsp; 
+  ✉️ <b>Email:</b> <a href="mailto:your.email@example.com">your.Mohammad.nayem.mizee@gmail.com</a>
+</p>
 
 ### Learning Full-Stack Web Development ✍️ Columnist | 🌐 Tech Enthusiast | 🎓 Student at University of Chittagong
 
