@@ -5,7 +5,7 @@
 
 ### Learning Full-Stack Web Development ✍️ Columnist | 🌐 Tech Enthusiast | 🎓 Student at University of Chittagong
 
-I am passionate about exploring the intersection of technology, software development, and written expression. Beyond coding, I regularly write columns and articles analyzing internet trends, modern tech, and core computing concepts.
+I am passionate about exploring the intersection of technology, software development, and written expression. Beyond coding, I regularly write columns and articles analyzing current politics.
 
 ---
 
