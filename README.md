@@ -14,8 +14,8 @@ I am passionate about exploring the intersection of technology, software develop
 - 🎓 Currently studying at **University of Chittagong**
 - 💻 Learning **Full-Stack Web Development**
 - 🧠 Passionate about mastering **Data Structures & Algorithms (DSA)**
-- ✍️ Active **Columnist & Writer** covering technology and contemporary ideas
-- 💬 Ask me about **Tech trends, Writing, or Problem Solving**
+- ✍️ Active **Columnist & Writer** covering current politics
+- 💬 Ask me about ** Writing, or Problem Solving**
 - ⚡ **Fun Fact:** I treat writing and code the same way—both are tools to communicate complex ideas clearly!
 
 ---
