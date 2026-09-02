@@ -1,4 +1,7 @@
+
 # Hi there, I'm Mohammad Nayem 👋
+<img width="1376" height="768" alt="Git hub cover 01" src="https://github.com/user-attachments/assets/37e594af-bf17-4ccf-baeb-9742e2a29481" />
+
 
 ### Learning Full-Stack Web Development ✍️ Columnist | 🌐 Tech Enthusiast | 🎓 Student at University of Chittagong
 
