@@ -9,7 +9,7 @@
 <!-- LOCATION & EMAIL -->
 <p align="center">
   📍 <b>Location:</b> Chattogram  &nbsp;|&nbsp; 
-  ✉️ <b>Email:</b> <a href="mailto:your.email@example.com">Mohammad.nayem.mizee@gmail.com</a>
+  ✉️ <b>Email:</b> <a href="mailto:mohammad.nayem.cumilla@gmail.com">mohammad.nayem.cumilla@gmail.com</a>
 </p>
 
 ### Learning Full-Stack Web Development ✍️ Columnist | 🌐 Tech Enthusiast | 🎓 Student at University of Chittagong
