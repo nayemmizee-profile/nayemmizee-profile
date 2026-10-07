@@ -25,8 +25,7 @@ I am passionate about exploring the intersection of technology, software develop
 - 🧠 Passionate about mastering **Data Structures & Algorithms (DSA)**
 - ✍️ Active **Columnist & Writer** covering current politics
 - 💬 Ask me about ** Writing, or Problem Solving**
-- ⚡ **Fun Fact:** I treat writing and code the same way—both are tools to communicate complex ideas clearly!
-
+-
 ---
 
 
