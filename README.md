@@ -44,7 +44,11 @@ I am passionate about exploring the intersection of technology, software develop
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24"/> <b>GitHub</b>
 </p>
 
+## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayemmizee-profile&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayemmizee-profile&layout=compact&theme=tokyonight)
 
 
 ### 📫 Connect With Me
