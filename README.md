@@ -52,9 +52,11 @@ I am passionate about exploring the intersection of technology, software develop
 
 
 
-## 📈 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nayemmizee-profile&theme=tokyo-night)
+## 📈 GitHub Contribution Activity
+
+![GitHub Contribution Calendar](https://ghchart.rshah.org/409ba5/nayemmizee-profile)
+)
 
 
 
