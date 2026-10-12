@@ -51,9 +51,11 @@ I am passionate about exploring the intersection of technology, software develop
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayemmizee-profile&layout=compact&theme=tokyonight)
 
 
+
 ## 📈 Contribution Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nayemmizee-profile&theme=tokyo-night)](https://github.com/nayemmizee-profile)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nayemmizee-profile&theme=tokyo-night)
+
 
 
 
