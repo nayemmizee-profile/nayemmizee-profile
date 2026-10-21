@@ -1,6 +1,6 @@
 
 
-<img width="1376" height="768" alt="Git hub cover 01" src="https://github.com/user-attachments/assets/37e594af-bf17-4ccf-baeb-9742e2a29481" />
+<img width="1376" height="768" alt="Git hub cover 01" src="https://github.com/user-attachments/assets/1792570166470.jpg" />
 
 <!-- NAME & DESIGNATION -->
 <h1 align="center">Hi 👋, I'm Mohammad Nayem</h1>
