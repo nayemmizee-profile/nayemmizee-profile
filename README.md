@@ -1,9 +1,7 @@
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/<img width="1376" height="768" alt="1792570166470 jpg" src="https://github.com/user-attachments/assets/2b1f020f-c3f3-4368-a52b-dfa9b3026298" />
-" alt=" Mohammad Nayem Mizee - Full-Stack Web Developer" width="100%">
-</p>
+<img width="1376" height="768" alt="Mohammad Nayem Mizee" src="https://github.com/user-attachments/assets/370fe5d5-c437-45a5-beb3-9fbc9f8a8587" />
+
 
 <!-- NAME & DESIGNATION -->
 <h1 align="center">Hi 👋, I'm Mohammad Nayem</h1>
