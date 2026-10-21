@@ -4,7 +4,7 @@
 
 
 <!-- NAME & DESIGNATION -->
-<h1 align="center">Hi 👋, I'm Mohammad Nayem</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Nayem Mizee</h1>
 <h3 align="center">A Passionate Full-Stack Developer </h3>
 
 <!-- LOCATION & EMAIL -->
