@@ -53,6 +53,8 @@ I am passionate about exploring the intersection of technology, software develop
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayemmizee-profile&show_icons=true&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayemmizee-profile&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayemmizee-profile&layout=compact&theme=tokyonight)
 
 
